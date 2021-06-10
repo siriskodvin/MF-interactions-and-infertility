@@ -1,4 +1,4 @@
-# phdpaper1_infertilityGWASinteraction
+# PhDpaper1_Male-Female-interactions
 Male-female genetic interaction associated with infertility
 
 (June 2021 – January 2022)
