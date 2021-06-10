@@ -1,0 +1,2 @@
+# phdpaper1_infertilityGWASinteraction
+Male-female genetic interaction associated with infertility
