@@ -14,3 +14,4 @@ or father alone, the ability of achieving a successful pregnancy may be influenc
 This can be implemented by extending the standard case-control GWAS methods to include 
 SNP-SNP interactions, which will reveal possible combinations of SNP alleles that increase 
 chances of ART treatment.
+
