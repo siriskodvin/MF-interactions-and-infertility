@@ -1,7 +1,6 @@
 # PhDpaper1_Male-Female-interactions
 Male-female genetic interaction associated with infertility
 
-(June 2021 – January 2022)
 With data from the START project, simple case-control GWAS scans for fertility-related 
 genes can be performed by comparing ART-mothers with non-ART mothers, as well as 
 comparing ART-fathers with non-ART fathers. Such a procedure has the possibility of 
