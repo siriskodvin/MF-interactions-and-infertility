@@ -1,6 +1,6 @@
 README
 
-This repository contains script files for the male-female infertility genetic interaction analysis.
+This folder contains script files for the male-female infertility genetic interaction analysis.
 The software used are PLINK and R.
 
 Script descriptions:
