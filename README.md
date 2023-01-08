@@ -1,4 +1,4 @@
-# PhDpaper1_Male-Female-interactions
+# MF-interactions and infertility
 Male-female genetic interaction associated with infertility
 
 With data from the START project, simple case-control GWAS scans for fertility-related 
