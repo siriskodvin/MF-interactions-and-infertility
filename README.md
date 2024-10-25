@@ -1,7 +1,5 @@
 # MF-interactions and infertility
-Statistical methods to detect mother–father genetic interaction effects on risk of infertility: A genome-wide approach
-
-Skodvin et al., Genetic Epidemiology, https://doi.org/10.1002/gepi.22534
+Skodvin et al., “Statistical methods to detect mother–father genetic interaction effects on risk of infertility: A genome-wide approach,” Genetic Epidemiology, vol. 47, no. 7, pp. 503–519, 2023, https://doi.org/10.1002/gepi.22534
 
 Abstract:
 
